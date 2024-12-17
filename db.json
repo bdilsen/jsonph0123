@@ -1,8 +1,8 @@
 {
   "GetInstanceData": {
 		"InstanceDocuments": [
-			"InstanceDocument": {
-				"asdfasdfa XBRL xxx"
+			{
+				"InstanceDocument": "asdfasdfa XBRL xxx"
 			}
 		]
 	},

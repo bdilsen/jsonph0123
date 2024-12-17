@@ -1,10 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "GetInstanceData": {
+			"InstanceDocuments": [
+				"InstanceDocument": {
+					"asdfasdfa XBRL xxx"
+				}
+			]
     }
-  ],
+	},
   "profile": {
     "name": "typicode"
   }

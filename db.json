@@ -1,13 +1,12 @@
 {
   "GetInstanceData": {
-			"InstanceDocuments": [
-				"InstanceDocument": {
-					"asdfasdfa XBRL xxx"
-				}
-			]
-    }
+		"InstanceDocuments": [
+			"InstanceDocument": {
+				"asdfasdfa XBRL xxx"
+			}
+		]
 	},
-  "profile": {
+  "SubmitInstanceData": {
     "name": "typicode"
   }
 }

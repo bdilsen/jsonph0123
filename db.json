@@ -16,6 +16,9 @@
         ]
     },
     "SubmitInstanceData": {
-        "name": "typicode"
+        "dummy": "_"
+    }
+    "SubmitTestInstanceData": {
+        "dummy": "_"
     }
 }
